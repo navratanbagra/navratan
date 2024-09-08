@@ -1,3 +1,4 @@
-# navratan
-this is my first git repository
-author-Navratan bagra
+# Navratan Bagra
+This is my first git repository
+<br>
+Author-Navratan bagra
